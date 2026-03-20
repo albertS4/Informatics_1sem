@@ -1,1 +1,1 @@
-sem2 works are in Informatics_2sem repository
+sem2 works are in sem2 folder
